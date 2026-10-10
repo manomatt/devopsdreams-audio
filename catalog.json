@@ -60,5 +60,13 @@
     "transcript": "transcripts/post-2899207518738205989-v1.html",
     "duration_seconds": 1451.88325,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "8285001295994941078",
+    "title": "Environment Promotion Strategies for GitOps Pipelines: Branches, Paths, Tags, and Digests",
+    "audio": "audio/post-8285001295994941078-v1.mp3",
+    "transcript": "transcripts/post-8285001295994941078-v1.html",
+    "duration_seconds": 1148.395,
+    "narration_mode": "near-verbatim"
   }
 ]
