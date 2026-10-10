@@ -36,5 +36,13 @@
     "transcript": "transcripts/post-4477011843371350771-v1.html",
     "duration_seconds": 1863.8935833333333,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "7278216743243491204",
+    "title": "Kubernetes In-Place Pod Resource Updates And Vertical Pod Resize",
+    "audio": "audio/post-7278216743243491204-v1.mp3",
+    "transcript": "transcripts/post-7278216743243491204-v1.html",
+    "duration_seconds": 1181.7524583333334,
+    "narration_mode": "near-verbatim"
   }
 ]
