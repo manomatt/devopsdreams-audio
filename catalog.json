@@ -52,5 +52,13 @@
     "transcript": "transcripts/post-1611531635578396942-v1.html",
     "duration_seconds": 1197.77225,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "2899207518738205989",
+    "title": "Terraform State Management, Locking, and Backups: A Production Deep Dive",
+    "audio": "audio/post-2899207518738205989-v1.mp3",
+    "transcript": "transcripts/post-2899207518738205989-v1.html",
+    "duration_seconds": 1451.88325,
+    "narration_mode": "near-verbatim"
   }
 ]
