@@ -76,5 +76,13 @@
     "transcript": "transcripts/post-8576435052228944335-v1.html",
     "duration_seconds": 1401.6397916666667,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "2860351746859817358",
+    "title": "Bootstrapping Kubernetes Clusters with Terraform and Argo CD: A Durable Two-Layer Approach",
+    "audio": "audio/post-2860351746859817358-v1.mp3",
+    "transcript": "transcripts/post-2860351746859817358-v1.html",
+    "duration_seconds": 428.67558333333335,
+    "narration_mode": "near-verbatim"
   }
 ]
