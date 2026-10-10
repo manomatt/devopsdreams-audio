@@ -44,5 +44,13 @@
     "transcript": "transcripts/post-7278216743243491204-v1.html",
     "duration_seconds": 1181.7524583333334,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "1611531635578396942",
+    "title": "Progressive Delivery with Canary and Blue-Green on Kubernetes: Argo Rollouts, Flagger, and Gateway API",
+    "audio": "audio/post-1611531635578396942-v1.mp3",
+    "transcript": "transcripts/post-1611531635578396942-v1.html",
+    "duration_seconds": 1197.77225,
+    "narration_mode": "near-verbatim"
   }
 ]
