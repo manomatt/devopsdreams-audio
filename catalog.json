@@ -92,5 +92,13 @@
     "transcript": "transcripts/post-5509779294004595128-v1.html",
     "duration_seconds": 472.1715,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "2249908711843913910",
+    "title": "Building an Internal Developer Platform on EKS",
+    "audio": "audio/post-2249908711843913910-v1.mp3",
+    "transcript": "transcripts/post-2249908711843913910-v1.html",
+    "duration_seconds": 1213.6579583333332,
+    "narration_mode": "near-verbatim"
   }
 ]
