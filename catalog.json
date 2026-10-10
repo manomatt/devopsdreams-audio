@@ -20,5 +20,13 @@
     "transcript": "transcripts/post-1854296656775198934-v1.html",
     "duration_seconds": 485.70233333333334,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "5333154497415044751",
+    "title": "Applying SRE Error Budgets to Services Running on EKS: SLIs, Burn Rates, and Release Decisions",
+    "audio": "audio/post-5333154497415044751-v1.mp3",
+    "transcript": "transcripts/post-5333154497415044751-v1.html",
+    "duration_seconds": 1681.3802083333333,
+    "narration_mode": "near-verbatim"
   }
 ]
