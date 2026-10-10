@@ -12,5 +12,13 @@
     "audio": "audio/post-1517886420675257133-v1.mp3",
     "transcript": "transcripts/post-1517886420675257133-v1.html",
     "duration_seconds": 605.8015416666667
+  },
+  {
+    "id": "1854296656775198934",
+    "title": "Kubernetes 1.37 Garhwal: What Matters in 5 Minutes",
+    "audio": "audio/post-1854296656775198934-v1.mp3",
+    "transcript": "transcripts/post-1854296656775198934-v1.html",
+    "duration_seconds": 485.70233333333334,
+    "narration_mode": "near-verbatim"
   }
 ]
