@@ -84,5 +84,13 @@
     "transcript": "transcripts/post-2860351746859817358-v1.html",
     "duration_seconds": 428.67558333333335,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "5509779294004595128",
+    "title": "Kubernetes Gateway API vs Ingress: A Practical Production Model for Platform Teams",
+    "audio": "audio/post-5509779294004595128-v1.mp3",
+    "transcript": "transcripts/post-5509779294004595128-v1.html",
+    "duration_seconds": 472.1715,
+    "narration_mode": "near-verbatim"
   }
 ]
