@@ -156,5 +156,13 @@
     "transcript": "transcripts/post-1742315478500080137-v1.html",
     "duration_seconds": 829.8365416666667,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "7943703258692161971",
+    "title": "Terraform and AWS Organizations: Separate Governance from Provisioning in Multi-Account AWS",
+    "audio": "audio/post-7943703258692161971-v1.mp3",
+    "transcript": "transcripts/post-7943703258692161971-v1.html",
+    "duration_seconds": 990.0390833333333,
+    "narration_mode": "near-verbatim"
   }
 ]
