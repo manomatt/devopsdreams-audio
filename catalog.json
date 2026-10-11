@@ -212,5 +212,13 @@
     "transcript": "transcripts/post-5229146543519795042-v1.html",
     "duration_seconds": 737.0196666666667,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "1843506896919735913",
+    "title": "Benchmark EKS Auto Mode, Graviton and Spot Without Confounding the Result",
+    "audio": "audio/post-1843506896919735913-v1.mp3",
+    "transcript": "transcripts/post-1843506896919735913-v1.html",
+    "duration_seconds": 701.2711666666667,
+    "narration_mode": "near-verbatim"
   }
 ]
