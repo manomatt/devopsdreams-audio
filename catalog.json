@@ -108,5 +108,13 @@
     "transcript": "transcripts/post-7596550084395737858-v1.html",
     "duration_seconds": 1020.1459583333333,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "1015811994101726431",
+    "title": "AWS VPC Lattice: The Missing Service Layer Between VPC Connectivity and Application Routing",
+    "audio": "audio/post-1015811994101726431-v1.mp3",
+    "transcript": "transcripts/post-1015811994101726431-v1.html",
+    "duration_seconds": 1360.916125,
+    "narration_mode": "near-verbatim"
   }
 ]
