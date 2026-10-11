@@ -204,5 +204,13 @@
     "transcript": "transcripts/post-1883531916326497973-v1.html",
     "duration_seconds": 742.4555,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "5229146543519795042",
+    "title": "AWS DevOps Agent for EKS: Make Every Diagnostic Tool Earn Its Access",
+    "audio": "audio/post-5229146543519795042-v1.mp3",
+    "transcript": "transcripts/post-5229146543519795042-v1.html",
+    "duration_seconds": 737.0196666666667,
+    "narration_mode": "near-verbatim"
   }
 ]
