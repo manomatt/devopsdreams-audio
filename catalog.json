@@ -260,5 +260,13 @@
     "transcript": "transcripts/post-7442770028894577204-v1.html",
     "duration_seconds": 674.5496666666667,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "6681870846177307811",
+    "title": "Heaps for Platform Workers: Stable Priorities Without Stale Work",
+    "audio": "audio/post-6681870846177307811-v1.mp3",
+    "transcript": "transcripts/post-6681870846177307811-v1.html",
+    "duration_seconds": 638.8735416666667,
+    "narration_mode": "near-verbatim"
   }
 ]
