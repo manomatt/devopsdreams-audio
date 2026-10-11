@@ -100,5 +100,13 @@
     "transcript": "transcripts/post-2249908711843913910-v1.html",
     "duration_seconds": 1213.6579583333332,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "7596550084395737858",
+    "title": "Monorepo vs Multirepo for GitOps Manifests: A Practical Guide for Flux and Argo CD",
+    "audio": "audio/post-7596550084395737858-v1.mp3",
+    "transcript": "transcripts/post-7596550084395737858-v1.html",
+    "duration_seconds": 1020.1459583333333,
+    "narration_mode": "near-verbatim"
   }
 ]
