@@ -172,5 +172,13 @@
     "transcript": "transcripts/post-8607790405071936733-v1.html",
     "duration_seconds": 705.6789583333333,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "1916689463253096853",
+    "title": "Import Existing AWS Resources: Adopt S3 Without Changing Its Contract",
+    "audio": "audio/post-1916689463253096853-v1.mp3",
+    "transcript": "transcripts/post-1916689463253096853-v1.html",
+    "duration_seconds": 671.3207916666667,
+    "narration_mode": "near-verbatim"
   }
 ]
