@@ -132,5 +132,13 @@
     "transcript": "transcripts/post-2666763469912292804-v1.html",
     "duration_seconds": 673.73675,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "2535562775798922906",
+    "title": "Terraform GitOps Bridge Modules for EKS: A Cleaner Way to Bootstrap Clusters and Hand Off to Argo CD",
+    "audio": "audio/post-2535562775798922906-v1.mp3",
+    "transcript": "transcripts/post-2535562775798922906-v1.html",
+    "duration_seconds": 718.2762083333333,
+    "narration_mode": "near-verbatim"
   }
 ]
