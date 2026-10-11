@@ -140,5 +140,13 @@
     "transcript": "transcripts/post-2535562775798922906-v1.html",
     "duration_seconds": 718.2762083333333,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "5258022992997799348",
+    "title": "Kubernetes 1.35 Features That Matter in Production",
+    "audio": "audio/post-5258022992997799348-v1.mp3",
+    "transcript": "transcripts/post-5258022992997799348-v1.html",
+    "duration_seconds": 600.3256666666666,
+    "narration_mode": "near-verbatim"
   }
 ]
