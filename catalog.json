@@ -244,5 +244,13 @@
     "transcript": "transcripts/post-2995098625023217155-v1.html",
     "duration_seconds": 716.53225,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "8745101305371663859",
+    "title": "AWS AI Agents: Bind Identity, Tool Authority and Cost to the Same Task",
+    "audio": "audio/post-8745101305371663859-v1.mp3",
+    "transcript": "transcripts/post-8745101305371663859-v1.html",
+    "duration_seconds": 738.1551666666667,
+    "narration_mode": "near-verbatim"
   }
 ]
