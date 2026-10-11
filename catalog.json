@@ -196,5 +196,13 @@
     "transcript": "transcripts/post-4846142621317380142-v1.html",
     "duration_seconds": 666.4795833333334,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "1883531916326497973",
+    "title": "Infrastructure Dependency Graphs: Release Work Only After Success",
+    "audio": "audio/post-1883531916326497973-v1.mp3",
+    "transcript": "transcripts/post-1883531916326497973-v1.html",
+    "duration_seconds": 742.4555,
+    "narration_mode": "near-verbatim"
   }
 ]
