@@ -164,5 +164,13 @@
     "transcript": "transcripts/post-7943703258692161971-v1.html",
     "duration_seconds": 990.0390833333333,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "8607790405071936733",
+    "title": "Implementing Kubernetes Pod Security Standards Without Breaking Production",
+    "audio": "audio/post-8607790405071936733-v1.mp3",
+    "transcript": "transcripts/post-8607790405071936733-v1.html",
+    "duration_seconds": 705.6789583333333,
+    "narration_mode": "near-verbatim"
   }
 ]
