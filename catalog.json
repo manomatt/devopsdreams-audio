@@ -116,5 +116,13 @@
     "transcript": "transcripts/post-1015811994101726431-v1.html",
     "duration_seconds": 1360.916125,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "2836711951267268511",
+    "title": "Kubernetes Multi-Tenancy with Namespaces and Network Policies: A Practical Guide for GitOps Teams",
+    "audio": "audio/post-2836711951267268511-v1.mp3",
+    "transcript": "transcripts/post-2836711951267268511-v1.html",
+    "duration_seconds": 830.0347083333334,
+    "narration_mode": "near-verbatim"
   }
 ]
