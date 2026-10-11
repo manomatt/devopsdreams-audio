@@ -188,5 +188,13 @@
     "transcript": "transcripts/post-4940581822599907278-v1.html",
     "duration_seconds": 750.5361666666666,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "4846142621317380142",
+    "title": "Terraform Drift Versus Unmanaged Infrastructure: Audit the Ownership Boundary",
+    "audio": "audio/post-4846142621317380142-v1.mp3",
+    "transcript": "transcripts/post-4846142621317380142-v1.html",
+    "duration_seconds": 666.4795833333334,
+    "narration_mode": "near-verbatim"
   }
 ]
