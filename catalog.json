@@ -124,5 +124,13 @@
     "transcript": "transcripts/post-2836711951267268511-v1.html",
     "duration_seconds": 830.0347083333334,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "2666763469912292804",
+    "title": "Operators vs Helm for Platform Teams: Install with Charts, Automate with Controllers",
+    "audio": "audio/post-2666763469912292804-v1.mp3",
+    "transcript": "transcripts/post-2666763469912292804-v1.html",
+    "duration_seconds": 673.73675,
+    "narration_mode": "near-verbatim"
   }
 ]
