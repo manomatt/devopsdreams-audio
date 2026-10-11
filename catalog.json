@@ -220,5 +220,13 @@
     "transcript": "transcripts/post-1843506896919735913-v1.html",
     "duration_seconds": 701.2711666666667,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "6941507780866955880",
+    "title": "EKS Network Failures: Separate DNS, IP Allocation and Conntrack",
+    "audio": "audio/post-6941507780866955880-v1.mp3",
+    "transcript": "transcripts/post-6941507780866955880-v1.html",
+    "duration_seconds": 741.4176666666667,
+    "narration_mode": "near-verbatim"
   }
 ]
