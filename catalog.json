@@ -300,5 +300,13 @@
     "transcript": "transcripts/post-5407100347702338866-v1.html",
     "duration_seconds": 649.93575,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "7269354403731749149",
+    "title": "HNSW in Production: A Fast Graph Is Not a Retrieval Contract",
+    "audio": "audio/post-7269354403731749149-v1.mp3",
+    "transcript": "transcripts/post-7269354403731749149-v1.html",
+    "duration_seconds": 591.4135,
+    "narration_mode": "near-verbatim"
   }
 ]
