@@ -332,5 +332,13 @@
     "transcript": "transcripts/post-7400593671865405679-v1.html",
     "duration_seconds": 568.5876666666667,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "2027990227798517154",
+    "title": "Kubernetes DRA for GPUs: Allocation Is Only Half the Contract",
+    "audio": "audio/post-2027990227798517154-v1.mp3",
+    "transcript": "transcripts/post-2027990227798517154-v1.html",
+    "duration_seconds": 686.2730416666667,
+    "narration_mode": "near-verbatim"
   }
 ]
