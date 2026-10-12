@@ -292,5 +292,13 @@
     "transcript": "transcripts/post-1971058965109617341-v1.html",
     "duration_seconds": 541.8259583333333,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "5407100347702338866",
+    "title": "SRE Interviews: Connect SLOs, Error Budgets and Incident Decisions",
+    "audio": "audio/post-5407100347702338866-v1.mp3",
+    "transcript": "transcripts/post-5407100347702338866-v1.html",
+    "duration_seconds": 649.93575,
+    "narration_mode": "near-verbatim"
   }
 ]
