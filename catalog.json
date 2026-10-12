@@ -348,5 +348,13 @@
     "transcript": "transcripts/post-3555548611199038206-v1.html",
     "duration_seconds": 621.503,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "2690426986324912488",
+    "title": "Ingress-NGINX to Gateway API: Preserve the Traffic Contract Before Cutover",
+    "audio": "audio/post-2690426986324912488-v1.mp3",
+    "transcript": "transcripts/post-2690426986324912488-v1.html",
+    "duration_seconds": 743.634625,
+    "narration_mode": "near-verbatim"
   }
 ]
