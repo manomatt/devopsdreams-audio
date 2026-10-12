@@ -372,5 +372,13 @@
     "transcript": "transcripts/post-813835688284506081-v1.html",
     "duration_seconds": 686.4293333333334,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "8496375067224353395",
+    "title": "GitHub Actions OIDC: Test Who Can Assume Your AWS Role",
+    "audio": "audio/post-8496375067224353395-v1.mp3",
+    "transcript": "transcripts/post-8496375067224353395-v1.html",
+    "duration_seconds": 327.2336666666667,
+    "narration_mode": "near-verbatim"
   }
 ]
