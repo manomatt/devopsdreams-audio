@@ -356,5 +356,13 @@
     "transcript": "transcripts/post-2690426986324912488-v1.html",
     "duration_seconds": 743.634625,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "5671769676023765299",
+    "title": "Safe Platform Access for AI Agents: Bind Approval to the Operation, Not the Conversation",
+    "audio": "audio/post-5671769676023765299-v1.mp3",
+    "transcript": "transcripts/post-5671769676023765299-v1.html",
+    "duration_seconds": 656.52425,
+    "narration_mode": "near-verbatim"
   }
 ]
