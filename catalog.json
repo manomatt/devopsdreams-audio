@@ -380,5 +380,13 @@
     "transcript": "transcripts/post-8496375067224353395-v1.html",
     "duration_seconds": 327.2336666666667,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "4632859714634799042",
+    "title": "Build an Internal Developer Platform End to End: From Service Request to Owned Runtime",
+    "audio": "audio/post-4632859714634799042-v1.mp3",
+    "transcript": "transcripts/post-4632859714634799042-v1.html",
+    "duration_seconds": 717.75875,
+    "narration_mode": "near-verbatim"
   }
 ]
