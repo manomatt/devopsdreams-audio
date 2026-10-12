@@ -316,5 +316,13 @@
     "transcript": "transcripts/post-1151308883952437713-v1.html",
     "duration_seconds": 723.3595,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "7513580152981481571",
+    "title": "Kubernetes, Terraform and AWS Interviews: Prove the Broken Contract",
+    "audio": "audio/post-7513580152981481571-v1.mp3",
+    "transcript": "transcripts/post-7513580152981481571-v1.html",
+    "duration_seconds": 682.4731666666667,
+    "narration_mode": "near-verbatim"
   }
 ]
