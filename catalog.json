@@ -396,5 +396,13 @@
     "transcript": "transcripts/post-505974542854584057-v1.html",
     "duration_seconds": 636.6259583333333,
     "narration_mode": "near-verbatim"
+  },
+  {
+    "id": "2970270391182719306",
+    "title": "OpenTelemetry in Production: Make Logs, Metrics, and Traces Correlate",
+    "audio": "audio/post-2970270391182719306-v1.mp3",
+    "transcript": "transcripts/post-2970270391182719306-v1.html",
+    "duration_seconds": 622.540375,
+    "narration_mode": "near-verbatim"
   }
 ]
